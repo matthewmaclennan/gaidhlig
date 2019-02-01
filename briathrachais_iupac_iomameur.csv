@@ -1,0 +1,1518 @@
+alternating copolymer 2.11
+alternating copolymerization 3.11
+anionic polymerization 3.19
+atactic macromolecule 1.25
+atactic polymer 2.21
+backbone 1.34
+bipolymer 2.5
+block 1.62
+block copolymer 2.24
+block macromolecule 1.26
+block polymer 2.22
+branch 1.53
+branch point 1.54
+branch unit 1.55
+branched chain 1.33
+branched polymer 2.34
+brush macromolecule 1.52
+cationic polymerization 3.20
+chain 1.30
+chain polymerization 3.6
+chain scission 3.24
+co-oligomer 2.7
+co-oligomerization 3.5
+comb macromolecule 1.52
+comb polymer 2.33
+condensative chain
+ polymerization 3.6
+configurational base unit 1.17
+configurational repeating unit 1.18
+configurational sequence 1.64
+configurational unit 1.16
+constitutional repeating unit 1.15
+constitutional sequence 1.63
+constitutional unit 1.14
+copolymer 2.5
+copolymerization 3.4
+covalent network 1.58
+crosslink 1.59
+cyclopolymerization 3.23
+decad 1.63, 1.64
+degree of polymerization 1.13
+depolymerization 3.25
+diad 1.63, 1.64
+double-strand chain 1.40
+double-strand copolymer 2.31
+double-strand macromolecule 1.41
+double-strand polymer 2.30
+end-group 1.35
+f-functional branch point 1.54
+f-functional branch unit 1.55
+graft copolymer 2.25
+graft macromolecule 1.28
+graft polymer 2.23
+heptad 1.63, 1.64
+hexad 1.63, 1.64
+homopolymer 2.4
+homopolymerization 3.3
+interpenetrating polymer
+network 2.43
+ionic copolymerization 3.18
+ionic polymerization 3.17
+ionomer 2.39
+ionomer molecule 1.66
+irregular macromolecule 1.5
+irregular polymer 2.16
+isotactic macromolecule 1.23
+isotactic polymer 2.18
+junction point 1.54
+junction unit 1.27
+ladder chain 1.44
+ladder macromolecule 1.45
+ladder polymer 2.30
+linear chain 1.32
+linear copolymer 2.28
+linear macromolecule 1.6
+linear polymer 2.27
+living copolymerization 3.22
+living polymerization 3
+TERMINOLOGY
+20
+long-chain branch 1.53
+long chain 1.36
+loose end 1.61
+macrocycle 1.57
+macromolecular 1.1
+macromolecule 1.1
+macromonomer 2.35
+macromonomer molecule 1.9
+macromonomer unit 1.12
+macromonomeric unit 1.12
+macroradical 1.10
+main chain 1.34
+mer 1.8
+mesogenic monomer 2.36
+micronetwork 1.60
+monodisperse polymer 2.13
+monomer 1.8, 2.1
+monomer molecule 1.3
+monomer unit 1.8
+monomeric unit 1.8
+multi-strand chain 1.46
+multi-strand macromolecule 1.47
+network 1.58
+network polymer 2.41
+non-uniform polymer 2.14
+nonad 1.63, 1.64
+n-star macromolecule 1.51
+n-strand chain 1.46
+n-strand macromolecule 1.47
+octad 1.63, 1.64
+oligomer 1.2, 2.3
+oligomer molecule 1.2
+oligomeric 1.2
+oligomerization 3.2
+pendant chain 1.53
+pendant group 1.56
+pentad 1.63, 1.64
+pentafunctional 1.54, 1.55
+periodic copolymer 2.12
+periodic copolymerization 3.12
+physical network 1.58
+polyaddition 3.8
+polycondensation 3.7
+polydisperse polymer 2.14
+polyelectrolyte 2.38
+polyelectrolyte molecule 1.65
+polymer 1.1, 2.2
+polymer blend 2.40
+polymer molecule 1.1
+polymer network 2.41
+polymer-polymer complex 2.44
+polymeric 1.1
+polymerization 3.1
+prepolymer molecule 1.11
+pseudo-co-oligomer 2.8
+pseudo-copolymer 2.6
+quaterpolymer 2.5
+radical copolymerization 3.16
+radical polymerization 3.15
+random copolymer 2.10
+random copolymerization 3.10
+regular comb macromolecule 1.52
+regular macromolecule 1.4
+regular oligomer molecule 1.7
+regular polymer 2.15
+regular star macromolecule 1.51
+ring-opening copolymerization 3.14
+ring-opening polymerization 3.13
+segregated star macromolecule 1.51
+semi-interpenetrating polymer
+ network 2.42
+short-chain branch 1.53
+short chain 1.37
+side-chain 1.53
+side-group 1.56
+single-strand chain 1.38
+single-strand macromolecule 1.39
+single-strand polymer 2.29
+skeletal atom 1.49
+skeletal bond 1.50
+skeletal structure 1.48
+spiro chain 1.42
+spiro macromolecule 1.43
+spiro polymer 2.30
+star macromolecule 1.51
+star polymer 2.32
+statistical copolymer 2.9
+statistical copolymerization 3.9
+statistical pseudo-copolymer 2.6
+stereoblock macromolecule 1.29
+stereoblock polymer 2.26
+stereoregular macromolecule 1.22
+stereoregular polymer 2.20
+stereorepeating unit 1.19
+subchain 1.31
+syndiotactic macromolecule 1.24
+syndiotactic polymer 2.19
+tactic macromolecule 1.21
+tactic polymer 2.17 
+GLOSSARY OF BASIC TERMS IN POLYMER SCIENCE
+21
+tacticity 1.20
+telechelic molecule 1.11
+telomer 2.3
+telomerization 3.2
+terpolymer 2.5
+tetrad 1.63, 1.64
+tetrafunctional 1.54, 1.55
+triad 1.63, 1.64
+trifunctional 1.54, 1.55
+
+Term Symbol Definition number
+angle of observation θ 3.3.3
+apparent molar mass Mapp 2.11
+apparent molecular weight Mr,app 2.11
+apparent relative molecular mass Mr,app 2.11
+Archibald’s method 3.2.15
+average degree of polymerization X k 2.1.2
+bead-rod model 3.2.4
+bead-spring model 3.2.5
+branching index g 1.25
+characteristic ratio CN, C∞ 1.13
+chi parameter χ 3.1.12
+coherent elastic scattering of radiation 3.3
+compositional heterogeneity 2.1
+concentrated phase 3.4.3
+constitutional heterogeneity 2.2
+continuous distribution function 2.13
+continuously curved chain 1.21
+contour length 1.14
+copolymer micelle 1.28
+co-solvency 3.1.15
+cross-over concentration c
+*
+ 3.1.2
+cross-section 3.3.7
+cumulative distribution function 2.1.3
+degree of polymerization X 1.3
+depolarization of scattered light 3.3.15
+differential distribution function 2.13
+dilute phase 3.4.2
+dilute solution 3.1.1
+discrete distribution function 2.13
+distribution function 2.13
+dissymmetry of scattering z(θ1, θ2) 3.3.14
+elution volume 3.4.9
+end-to-end distance r 1.11, 1.
+TERMINOLOGY
+66
+Flory distribution 2,17
+Flory-Huggins theory
+Flory-Huggins-Staverman theory
+ 3.1.11
+3.1.11
+flow birefringence 3.2.9
+fractionation 3.4.1
+freely draining 3.2.6
+freely jointed chain 1.16
+freely rotating chain 1.19
+frictional coefficient f 3.2.1
+gel-permeation chromatography 3.4.7
+Guinier plot 3.3.12
+Height equivalent to a theoretical plate
+Huggins coefficient
+H
+KH
+3.4.14
+3.2.23
+Huggins equation 3.2.22
+hydrodynamic volume 3.2.3
+hydrodynamically equivalent sphere 3.2.2
+inherent viscosity ηinh 3.2.20
+integral distribution function 2.13
+intrinsic viscosity [η] 3.2.21
+isopycnic 3.1.17
+isorefractive 3.3.17
+Kratky plot 3.3.13
+Kuhn-Mark-Houwink-Sakurada equation 3.2.25
+large particle 3.3.2
+length of the scattering vector q 3.3.5
+limiting viscosity number [η] 3.2.21
+logarithmic normal distribution 2.20
+logarithmic viscosity number ηln 3.2.20
+long-chain branch 1.24
+long-range interaction 1.6
+long-range intramolecular interaction 1.6
+Mark-Houwink equation 3.2.25
+mass-average degree of polymerization X w 2.12
+mass-average molar mass M w 2.7
+mass-average relative molecular mass M wr, 2.7
+mass-distribution function 2.15
+microgel 1.27
+Mie scattering 3.3.18
+molal refractive index increment 3.3.6
+molar mass M 1.2
+molar-mass average M k 2.5
+molar-mass exclusion limit 3.4.8
+molecular weight Mr 1.1
+molecular-weight average M kr, 2.5
+molecular-weight exclusion limit 3.4.8
+monodisperse polymer 2.3
+most probable distribution 2.17
+network 1.26 
+INDIVIDUAL MACROMOLECULES
+67
+non-draining 3.2.7
+non-uniform polymer 2.4
+number-average degree of
+polymerization
+X n 2.12
+number-average molar mass M n 2.6
+number-average molecular weight M nr, 2.6
+number-average relative molecular mass M nr, 2.6
+number-distribution function 2.14
+partially draining 3.2.8
+particle scattering factor P(θ ), Pθ 3.3.10
+particle scattering function P(θ ), Pθ 3.3.10
+persistence length a 1.22
+perturbed dimensions 1.8
+plate height H 3.4.14
+plate number N 3.4.13
+Poisson distribution 2.18
+polydisperse polymer 2.4
+polymer-poor phase 3.4.2
+polymer-rich phase 3.4.3
+polymer-solvent interaction 3.1.3
+polymolecularity correction 2.21
+Porod-Kratky chain 1.21
+precipitation fractionation 3.4.4
+preferential sorption 3.1.13
+probability density function 2.13
+quality of solvent 3.1.4
+radius of gyration s, 2/12 s 〉〈 1.9
+random coil 1.15
+random-walk chain 1.16
+Rayleigh ratio R(θ ), Rθ 3.3.7
+reduced viscosity 3.2.19
+refractive increment ∂n/∂c 3.3.6
+refractive index increment ∂n/∂c 3.3.6
+relative molecular mass M 1.1
+relative molecular-mass average M kr, 2.5
+relative viscosity ηr 3.2.17
+relative viscosity increment ηi 3.2.18
+retention volume VR 3.4.10
+root-mean-square end-to-end distance 2/12 r 〉〈 1.12
+rotational diffusion 3.2.10
+scattering angle θ 3.3.3
+scattering vector 3.3.4
+Schulz-Flory distribution 2.17
+Schulz-Zimm distribution 2.16
+second virial coefficient A2 3.1.7
+sedimentation coefficient s 3.2.11
+sedimentation equilibrium 3.2.12 
+TERMINOLOGY
+68
+sedimentation velocity method 3.2.14
+selective solvent 3.1.14
+selective sorption 3.1.13
+short-chain branch 1.23
+short-range interaction 1.5
+short-range intramolecular interaction 1.5
+size-exclusion chromatography 3.4.6
+small particle 3.3.1
+solubility parameter δ 3.1.16
+specific refractive index increment 3.3.6
+spreading function 3.4.12
+statistical coil 1.15
+statistical segment 1.18
+Staudinger index [η ] 3.2.21
+steric factor σ 1.20
+streaming birefringence 3.2.9
+thermodynamic quality of solvent 3.1.4
+thermodynamically equivalent sphere 1.4
+theta solvent 3.1.5
+theta state 3.1.5
+theta temperature 3.1.6
+Tung distribution 2.19
+turbidimetric titration 3.3.16
+turbidity τ 3.3.9
+uniform polymer 2.3
+universal calibration 3.4.11
+unperturbed dimensions 1.7
+virial coefficients A1, A2, … 3.1.7
+virial coefficients of the chemical
+potential
+A1, A2, … 3.1.7
+viscosity function Φ 3.2.24
+viscosity number 3.2.19
+viscosity ratio ηr 3.2.17
+viscosity-average degree of
+polymerization
+X v 2.12
+viscosity-average molar mass M v 2.10
+viscosity-average molecular weight M vr, 2.10
+viscosity-average relative molecular
+mass
+M vr, 2.10
+weight-average degree of polymerization X w 2.12
+weight-average molecular weight M wr, 2.7
+weight-distribution function 2.15
+worm-like chain 1.21
+z-average degree of polymerization X z 2.12
+z-average molar mass M z 2.8
+z-average molecular weight M zr, 2.8
+z-average relative molecular mass M zr, 2.8 
+INDIVIDUAL MACROMOLECULES
+69
+(z + 1)-average molar mass M +1z 2.9
+(z + l)-average degree of polymerization X +1z 2.12
+(z + l)-average relative molecular mass M +1zr, 2.9
+(z +1)-average molecular weight M +1zr, 2.9
+Zimm plot 3.3.11 
+undecad 1.63, 1.64
+uniform polymer 2.13
+unzipping 3.25
+variegated star macromolecule 1.51
+
+adhering thread 4.9.3.1
+amphiphilic mesogen 2.11.1
+amphitropic compound 2.4.4
+anisotropy of physical
+ properties 5.8
+antiferroelectric chiral
+smectic C mesophase 3.1.5.1.2
+antimesophase 3.1.6.3
+asymmetric liquid-crystal
+ dimmer 2.11.2.9
+backflow 5.7
+banana mesogen 2.11.2.10
+band texture 6.12
+banded texture 6.12
+barotropic mesophase 2.4.2
+bâtonnet 4.10.1
+bend deformation 5.2.2
+biaxial mesophase 3.3
+biaxial mesophase anisotropies 5.8.2
+biaxial nematic 3.3.1
+biaxial nematic mesophase 3.3.1
+biaxial smectic A mesophase 3.3.2
+biforked mesogen 2.11.2.5
+bipolar droplet texture 4.9.1.1
+bis-swallow-tailed mesogen 2.11.2.7
+blue phase 3.1.4
+board-shaped polymer 6.9
+boojums 4.9.1.1
+boundaries of Grandjean 4.10.4
+bowlic mesogen 2.11.2.3
+calamitic mesogen 2.11.2.1
+centered rectangular
+ mesophase 3.1.6.3
+chiral columnar oblique
+ mesophase 3.2.2.3
+chiral nematic 3.1.3
+chiral nematic mesophase 3.1.3
+chiral nematogen 2.11
+chiral smectic C mesophase 3.1.5.1.3
+chiral smectic F mesophase 3.1.5.2.2
+chiral smectic I mesophase 3.1.5.2.3
+cholesteric 3.1.3
+cholesteric mesophase 3.1.3
+clearing point 2.6
+clearing temperature 2.6
+columnar discotic 3.2.2
+columnar discotic mesophase 3.2.2
+columnar hexagonal
+ mesophase 3.2.2.1
+columnar mesophase 3.2.2
+columnar oblique mesophase 3.2.2.2
+columnar rectangular
+ mesophase 3.2.2.2
+combined liquid-crystalline
+ polymer 6.6
+comb-shaped (comb-like)
+ polymer liquid-crystal 6.3
+comb-shaped mesogen 2.11.2.3
+conical mesogen 2.11.2.3
+cruciform polymer
+ liquid-crystal 6.2
+crystal B, E, G, H, J and K
+ mesophases 3.1.5.3
+cubic mesophase 3.1.9
+cybotactic groups 3.1.2
+decay time 5.21
+defect 4.7
+dendrimeric liquid-crystal 6.10
+dendritic liquid-crystal 6.10
+director 3.1.1.1
+disclination 4.7.2
+disclination strength 4.9.2.2
+discoid mesogen 2.11.2.2
+discotic mesogen 2.11.2.2
+discotic mesophases 3.2
+discotic nematic 3.2.1 
+POLYMER LIQUID CRYSTALS
+141
+discotic nematic mesophase 3.2.1
+discotics 3.2
+dislocation 4.7.1
+disruptor 6.5
+distortion in liquid crystals 5.2
+divergence temperature 2.9
+domain 4.1
+dynamic-scattering mode 5.15
+elastic constants 5.3
+elasticity moduli 5.3
+electroclinic effect 5.11
+electrohydrodynamic
+ instabilities 5.13
+enantiotropic mesophase 2.4.1
+end-on fixed side-group
+ polymer liquid-crystal 6.3
+even-membered liquid-
+ crystal dimer 2.11.2.9
+fall time 5.22
+ferroelectric effects 5.9
+flexo-electric domain 5.17
+flexo-electric effect 5.16
+focal-conic domain 4.10.2
+focal-conic, fan-shaped
+ texture 4.10.4
+forked hemiphasmidic
+ mesogen 2.11.2.5
+Frank constants 5.3
+Fréedericksz transition 5.10
+friction coefficients 5.6
+fused twin mesogen 2.11.2.9
+GENERAL DEFINITIONS 2
+glassy mesophase 3.5
+guest-host effect 5.23
+hemiphasmidic mesogen 2.11.2.5
+hexagonal mesophase 3.2.2.1
+hexatic smectic mesophase 3.1.5.2
+homeotropic alignment 4.3
+homogeneous alignment 4.4
+hyperbranched polymer
+ liquid-crystal 6.11
+induced mesophase 3.1.8
+intercalated smectic
+ mesophase 3.1.7
+inverse hexagonal mesophase 3.2.2.1
+inverse lamellar mesophase 3.1.5.1.1
+isotropization temperature 2.6.
+Kapustin domains 5.14
+lamellar mesophase 3.1.5.1.1
+laterally branched mesogen 2.11.2.8
+Leslie-Ericksen coefficients 5.4
+ligated twin mesogen 2.11.2.9
+liquid crystal 2.3
+liquid-crystal dendrimer 6.10
+liquid-crystal dimer 2.11.2.9
+liquid-crystal oligomer 2.11.2.9
+liquid-crystal polymer 6.1
+LIQUID-CRYSTAL
+ POLYMERS 6
+liquid-crystal state 2.2
+liquid-crystalline phase 2.2.1
+liquid-crystalline polymer 6.1
+liquid-crystalline state 2.2
+lyotropic mesophase 2.4.3
+magnetic mesophase
+ anisotropy 5.8.1
+main-chain liquid-crystalline
+ polymer 6.2
+main-chain polymer liquid-
+ crystal 6.2
+major biaxial mesophase
+ anisotropy 5.8.2
+marbled texture 4.9.4
+melted-grain boundary
+ mesophase 3.6.3
+mesogen 2.11
+mesogenic compound 2.11
+mesogenic dimer 2.11.2.9
+mesogenic group 2.10
+mesogenic moiety 2.10
+mesogenic oligomer 2.11.2.9
+mesogenic unit 2.10
+mesomorphic compound 2.1, 2.11
+mesomorphic glass 2.1
+mesomorphic state 2.1
+mesomorphous state 2.1
+mesophase 2.4
+mesophases of calamitic
+ mesogens 3.1
+mesophases of disc-like
+ mesogens 3.2
+metallomesogen 2.11.3
+Miesowicz coefficient 5.5
+m,n-polycatenary mesogen 2.11.2.5
+modulated smectic mesophase 3.1.6.3
+monodomain 4.2 
+TERMINOLOGY
+142
+monotropic mesophase 2.4.5
+nematic 3.1.1
+nematic droplet 4.9.1
+nematic textures 4.9
+nematogen 2.11
+non-amphiphilic mesogen 2.11.2
+nucleus 4.9.2.1
+oblique mesophase 3.1.6.3
+odd-membered liquid-crystal
+ dimer 2.11.2.9
+optical texture 4.8
+order parameter 5.1
+ordered sanidic phase 3.4.2
+Oseen-Zocher-Frank
+ constants 5.3
+parabolic focal conic domain 4.10.2
+phasmidic mesogen 2.11.2.5
+PHYSICAL
+ CHARACTERISTICS
+ OF LIQUID CRYSTALS 5
+planar alignment 4.4
+polycatenary mesogen 2.11.2.5
+polygonal texture 4.10.3
+polymer liquid-crystal 6.1
+polymer with mesogenic
+ side-groups or side-chains 6.3
+polymorphic modifications of
+ strongly polar compounds 3.1.6
+pre-tilted homeotropic
+ alignment 4.3
+pre-transitional temperature 2.9
+pyramidic mesogen 2.11.2.3
+radial droplet texture 4.9.1.2
+rectangular sanidic mesophase 3.4.1
+re-entrant mesophase 3.1.6.1
+relative biaxiality
+ (of a biaxial mesophase) 5.8.2
+ribbon mesophase 3.1.6.3
+rigid chain 6.7
+rise time 5.21
+rotational viscosity 5.6
+rotational viscosity
+ coefficients 5.6
+sanidic mesogen 2.11.2.4
+sanidic mesophase 3.4
+schlieren texture 4.9.2
+semi-rigid chain 6.8
+side-chain liquid-crystallline
+ polymer 6.3
+side-chain polymer liquid-
+ crystal 6.3
+side-group liquid-crystalline
+ polymer 6.3
+side-group polymer liquid-
+ crystal 6.3
+side-on fixed side-group
+ polymer liquid crystal 6.3
+side-to-tail twin mesogen 2.11.2.9
+smectic A1, Ad, A2, C1, Cd,
+ C2 mesophases 3.1.6.2
+smectic A mesophase 3.1.5.1.1
+smectic B mesophase 3.1.5.2.1
+smectic C mesophase 3.1.5.1.2
+smectic F mesophase 3.1.5.2.2
+smectic I mesophase 3.1.5.2.3
+smectic mesophase 3.1.5
+smectic mesophases
+ with unstructured layers:
+ SmA and SmC 3.1.5.1
+smectic textures 4.10
+smectogen 2.11
+spacer 6.4
+splay deformation 5.2.1
+star polymer liquid-crystal 6.2
+surface disclination line 4.9.3.1
+surface pre-tilt 4.3
+swallow-tailed mesogen 2.11.2.6
+tail-to-tail twin mesogen 2.11.2.9
+TEXTURES AND DEFECTS 4
+thermotropic mesophase 2.4.1
+threaded texture 4.9.3
+threshold field 5.12
+threshold electric field 5.12
+threshold magnetic field 5.12
+‘time-off’ of the electro-
+ optical effect 5.20
+‘time-on’ of the electro-
+ optical effect 5.19
+transitional entropy 2.8
+transition temperature 2.5
+turn-off time 5.19
+turn-on time 5.18
+twin mesogen 2.11.2.9
+twist alignment 4.6
+twist deformation 5.2.3
+twisted-nematic cell 5.18 
+POLYMER LIQUID CRYSTALS
+143
+twist grain-boundary
+ mesophase 3.6
+twist grain-boundary
+ A*
+ mesophase 3.6.1
+twist grain-boundary
+ C*
+ mesophase 3.6.2
+twist viscosity 5.6
+TYPES OF MESOPHASE 3
+uniaxial mesophase anisotropy 5.8.1
+uniaxial nematic mesophase 3.1.1
+uniform planar alignment 4.5
+virtual transition temperature 2.7
+Williams domains 5.14
+π-line disclination 4.9.2.2
+2π-line disclination 4.9.2.2
+
+absolute compliance 5.18
+absolute modulus 5.14
+angular velocity (of a forced oscillation) 5.10
+angular velocity of resonance frequency 6.7
+apparent viscosity 4.12
+bulk compression 2.9
+bulk compressive compliance 4.6
+bulk compressive modulus 4.5
+bulk compressive strain 2.9
+bulk modulus 4.5
+Cauchy tensor 1.8, 1.9
+coefficient of viscosity 4.12
+complex compliance 5.19
+complex modulus 5.15
+complex rate of strain 5.22
+complex strain 5.15, 5.19
+complex stress 5.15, 5.19, 5.22
+complex viscosity 5.22
+ 
+TERMINOLOGY
+180
+compliance 4.4
+compressive strain 2.4
+compressive stress 3.3
+constitutive equation for an elastic solid 4.1
+constitutive equation for an incompressible viscoelastic liquid or solid 4.2
+creep 5.9
+creep compliance 5.9
+creep function 5.9
+damping curve 6.2
+dashpot constant 5.3, 5.4
+decay constant 6.3
+decay frequency 6.4
+deformation gradients in an elastic solid 1.3
+deformation gradients in a viscoelastic liquid or solid 1.6
+deformation gradient in the orthogonal deformation of an elastic solid 2.1
+deformation gradient tensor for an elastic solid 1.4
+deformation gradient tensor for a viscoelastic liquid or solid 1.7
+deformation of an elastic solid 1.3
+deformation of a viscoelastic liquid or a solid 1.5
+deformation ratio 2.3
+deformation ratio in the orthogonal deformation of an elastic solid 2.1
+dynamic stress 5.1
+dynamic viscosity 5.20
+elastic modulus 4.3
+elongational strain rate 2.12
+elongational viscosity 4.9
+engineering strain 2.4
+engineering stress 3.4
+extensional strain rate 2.12
+extensional viscosity 4.9
+extension ratio 2.3
+Finger tensor 1.8, 1.11
+first normal-stress coefficient 4.13
+first normal-stress difference 3.6
+first normal-stress function 3.6
+flexural deflection 6.9
+flexural force 6.8
+flexural modulus 6.10
+flexural stress 6.8
+forced flexural oscillation 6.7
+forced oscillation 5.10
+forced uniaxial extensional oscillation 6.6
+free oscillation 6.1
+general homogenous deformation or flow of a viscoelastic liquid or
+solid 2.10
+general orthogonal homogeneous deformation of an elastic solid 2.1
+Green tensor 1.8, 1.10
+Hencky strain 2.5
+homogeneous deformation of elastic solids 1.3
+ 
+NON-ULTIMATE MECHANICAL PROPERTIES
+181
+homogeneous deformation of viscoelastic liquids and solids 1.5
+homogeneous orthogonal deformation or flow of an incompressible
+viscoelastic liquid or solid 2.11
+homogeneous simple shear deformation or flow of an incompressible
+viscoelastic liquid or solid 2.13
+infinite-shear viscosity 4.12
+inhomogeneous deformation of elastic solids 1.3
+isotropic compression 2.9
+lateral contraction ratio 2.6
+lateral strain 2.6
+linear viscoelastic behaviour of a liquid 5.2
+linear viscoelastic behaviour of a solid 5.2
+logarithmic decrement 6.5
+loss angle of a forced oscillation 5.10
+loss compliance 5.17
+loss curve 5.11
+loss factor 5.11
+loss modulus 5.13
+loss tangent 5.11
+Maxwell element 5.3
+Maxwell model 5.3
+modulus 4.3
+modulus of elasticity 4.3
+neutral axis (in forced flexural oscillation) 6.7
+neutral plane (in forced flexural oscillation) 6.7
+Newtonian liquid 4.2
+nominal stress 3.4
+non-Newtonian liquid 4.2
+normal stresses 3.5
+out-of-phase viscosity 5.21
+phase angle (of a forced oscillation) 5.10
+Piola tensor 1.8
+plane strain 1.8
+plane stress 1.2
+Poisson’s ratio 2.6
+pure shear deformation or flow 3.1
+pure shear of an elastic solid 2.7
+pure shear stress 3.1
+relaxation function 5.7
+relaxation spectrum 5.6
+relaxation time 5.6
+resonance curve 6.11
+resonance frequency 6.12
+resonance frequency (in forced flexural oscillation) 6.7
+resonance frequency (in forced uniaxial extensional oscillation) 6.7
+retardation spectrum 5.8
+retardation time 5.8
+Rivlin-Ericksen tensors 1.14
+secant modulus 4.7
+ 
+TERMINOLOGY
+182
+second moment of area (in forced flexural oscillation) 6.7
+second normal-stress coefficient 4.14
+second normal-stress difference 3.7
+second normal-stress function 3.7
+shear 2.8, 2.13
+shear compliance 4.11
+shear modulus 4.10
+shear rate 2.13
+shear strain 2.8
+shear stress 3.5
+shear viscosity 4.12
+simple shear of an elastic solid 2.8
+small-strain tensor 1.10
+spectrum of relaxation times 5.6
+spring constant 5.3, 5.4
+standard linear viscoelastic solid 5.5
+steady (simple) shear flow 2.13
+steady uniaxial homogeneous elongational deformation or flow of an
+incompressible viscoelastic liquid or solid 2.12
+storage compliance 5.16
+storage modulus 5.12
+stored energy function 4.1
+strain amplitude (of a forced oscillation) 5.10
+strain tensor 1.8
+stress 1.2
+stress amplitude (of a forced oscillation) 5.10
+stress relaxation 5.7
+stress tensor 1.2
+stress tensor resulting from an orthogonal deformation or flow 3.1
+stress tensor resulting from a simple shear deformation or flow 3.5
+stress vector 1.1
+tensile compliance 4.8
+tensile modulus 4.7
+tensile strain 2.4
+tensile stress 3.2
+three-point bending 6.7
+three-point flexure 6.7
+torsion pendulum 6.2
+traction 1.1
+true stress 1.2
+uniaxial compliance 4.8
+uniaxial deformation of an elastic solid 2.2
+uniaxial deformation or flow of an incompressible viscoelastic liquid
+or solid 2.11
+uniaxial deformation ratio 2.3
+uniaxial orthogonal deformation or flow 3.1
+uniaxial strain 2.4
+viscoelasticity 5.1
+viscosity 4.12
+ 
+NON-ULTIMATE MECHANICAL PROPERTIES
+183
+Voigt-Kelvin element 5.4
+Voigt-Kelvin model 5.4
+Voigt element 5.4
+Voigt model 5.4
+volume compression 2.9
+vorticity tensor 1.13
+width of the resonance curve 6.13
+Young’s modulus 4.7
+zero-shear viscosity 4.12
+
+additive 1.30
+adhesion 1.24
+adhesion promoter 1.37
+adhesive strength 1.26
+agglomerate 1.42
+agglomeration 1.41
+aggregate 1.42
+aggregation 1.41
+binodal 2.6
+binodal curve 2.6
+blooming 2.17
+bulk substance 3.12
+chemical adhesion 1.25
+cloud point 2.9
+cloud-point curve 2.10
+cloud-point temperature 2.11
+co-continuous phase domains 3.14
+coalescence 2.18
+coexistence curve 2.6
+compatibility 1.32
+compatibilization 1.33
+compatibilizer 1.36
+compatible polymer blend 1.35
+complex 1.6
+composite 1.13
+continuous phase domain 3.12
+core-shell morphology 3.15
+coupling agent 1.37
+craze 1.29
+critical point 2.12
+cylindrical morphology 3.16
+degree of compatibility 1.34
+degree of incompatibility 1.34
+degree of ripening 1.20
+delamination 1.18
+discontinuous phase domain 3.13
+discrete phase domain 3.13
+dispersant 1.40
+dispersed phase domain 3.13
+dispersing agent 1.40
+dispersing aid 1.40
+dispersion 1.39
+domain boundary 3.4
+domain interface 3.4
+domain structure 3.5
+dual phase domain continuity 3.14
+exfoliation 1.22
+fibrillar morphology 3.17
+fill factor 1.45
+filler 1.44
+Flory–Huggins theory 2.3
+Flory–Huggins–Staverman
+ theory 2.3
+guest polymer 3.13
+hard-segment phase domain 3.9
+heterogeneous polymer blend 1.12
+homogeneous polymer blend 1.3
+homologous polymer blend 1.4
+host polymer 3.12
+immiscibility 1.11
+immiscible polymer blend 1.12
+impregnation 1.19
+intercalation 1.21
+interdiffusion 2.16
+interfacial adhesion 1.26
+interfacial agent 1.31
+interfacial bonding 1.27
+interfacial energy 1.26
+interfacial fracture 1.28
+interfacial region 3.6
+interfacial-region thickness 3.8
+interfacial tension 1.26
+interfacial width 3.8
+interpenetrating polymer
+ network (IPN) 1.9
+interphase 3.6
+interphase elasticity 3.7
+interphase thickness 3.8
+isomorphic polymer blend 1.5
+lamellar domain morphology 3.17
+lamina 1.16
+laminate 1.16
+lamination 1.17
+lower critical solution
+ temperature (LCST) 2.13
+macrodispersion 1.39
+matrix 3.12
+matrix phase domain 3.12
+metastable miscibility 1.7
+metastable miscible polymer
+ blend 1.8
+microdispersion 1.39
+microdomain morphology 3.19
+miscibility 1.2
+miscibility gap 2.2
+miscibility window 2.1 
+TERMINOLOGY
+204
+miscible polymer blend 1.3
+morphology 3.1
+morphology coarsening 2.19
+multicoat morphology 3.23
+multiphase copolymer 3.3
+multiple inclusion morphology 3.25
+nanocomposite 1.15
+nanodomain morphology 3.20
+nucleation of phase separation 2.5
+onion morphology 3.21
+ordered co-continuous double
+ gyroid morphology 3.22
+phase domain 3.2
+phase interaction 3.7
+phase inversion 2.15
+phase microdomain 3.2
+phase nanodomain 3.2
+phase ripening 2.19
+pinning 2.19
+polymer alloy 1.38
+polymer blend 1.1
+polymer composite 1.14
+polymer–polymer complex 1.6
+prepreg 1.20
+rod-like morphology 3.24
+salami-like morphology 3.25
+segmented copolymer 3.11
+sequential IPN 1.9
+sequential SIPN 1.10
+semi-interpenetrating polymer
+ network (SIPN) 1.10
+simultaneous IPN 1.9
+simultaneous SIPN 1.10
+soft-segment phase domain 3.10
+spinodal 2.7
+spinodal curve 2.7
+spinodal decomposition 2.8
+spinodal phase-demixing 2.8
+tack 1.26
+thermoplastic elastomer 1.46
+upper critical solution
+ temperature (UCST) 2.14
+wetting 1.23
+χ interaction parameter 2.4 
+
+aerogel 3.1.1
+aerosol 2.16.1
+aerosol hydrolysis 5.1
+affine chain behaviour 4.2.1
+agglomerate 2.1, 2.2
+agglomeration 5.2, 5.3
+aggregate 2.3, 2.4
+aggregation 5.4, 5.5
+alcogel 3.1.2
+aquagel 3.1.3
+bimodal network 4.1.21.3.1
+bimodal polymer network 4.1.21.3.2
+bowtie entanglement 4.2.3.1
+branch point 4.2.2
+butterfly entanglement 4.2.3.2
+calcinations (in polymer
+ networks) 5.6
+carbo-reduction 5.7
+ceramer 4.1.1
+ceramic 4.1.2
+ceramic precursor 4.1.3
+ceramic-reinforced polymer 4.1.4
+ceramic yield 4.1.5
+ceramization 5.8
+chain entanglement 4.2.3
+chemical functionality 2.5
+chemically bonded hybrid
+ (material) 4.1.14.1
+clay hybrid 4.1.14.2
+coagulation 5.9
+colloid 2,6
+colloidal 2,7
+colloidal dispersion 2.8
+colloidal gel 3.1.4
+colloidal network 4.1.21.1
+colloidal processing 5.10
+colloidal sol 2.9
+colloidal suspension 2.10
+compatible polymer blend 4.1.27.1
+composite 4.1.6
+connectivity 2.11
+covalent network 4.1.21.3.3
+covalent polymer network 4.1.21.3.4 
+SOLS, GELS, NETWORKS AND HYBRIDS
+235
+creep 4.1.7
+critical concentration 5.11
+crosslink 4.2.4
+crosslink density 4.2.5
+crosslinking 5.12
+crosslinking site 4.2.6
+curing 5.13
+deflocculation 5.14
+densification 5.15
+drying control chemical
+ additive 3.2
+EB curing 5.13.1
+elastically active network
+ chain 4.2.7
+elastomer 4.1.8
+electron-beam curing 5.13.2
+entanglement network 4.1.21.3.5
+exfoliation 5.16
+f-functional branch point 4.2.2.1
+flocculation 5.17
+fractal agglomerate 4.1.9
+fractal dimension 4.1.10
+functionality
+ (of a monomer) 2.12
+GELS 3
+gel 3.1
+gel aging 5.18
+gel fraction 4.1.11
+gel microparticle 3.1.5
+gel nanoparticle 3.1.6
+gel point 3.3
+gel temperature 3.4
+gel time 3.5
+gelation 5.19
+gelation point 3.6
+gelation temperature 3.7
+gelation time 3.8
+green body 4.1.12
+Hausdorff dimension 4.1.13
+hipping 5.20
+homogeneous polymer
+ blend 4.1.27.2
+hot isostatic pressing 5.21
+humming gel 3.1.7
+hybrid material 4.1.14
+hybrid polymer 4.1.14.3
+hydrogel 3.1.8
+hydrolysis ratio 5.22
+inorganic-organic polymer 4.1.15
+inorganic polymer 4.1.15.1
+insertion reaction. 5.23
+in-situ composite formation 5.24
+intercalation reaction 5.23
+inter-junction molar mass 4.2.8
+interpenetrating polymer
+ network 4.1.21.3.6
+isostatic pressing 5.25
+junction point 4.2.9
+junction point density 4.2.10
+loose end 4.2.11
+mass fractal dimension 4.1.16
+microgel 3.1.9
+micronetwork 4.1.21.3.7
+microsyneresis 5.42.1
+miscible polymer blend 4.1.27.3
+mixed ceramic 4.1.17
+model network 4.1.21.3.8
+monolith 4.1.18
+multiphase copolymer 4.1.19
+nanocomposite 4.1.20
+nanogel 3.1.10
+net shaping 5.26
+network. 4.1.21
+network-chain molar mass 4.2.12
+network defect 4.2.13
+network polymer 4.1.21.2
+neutralized gel 3.1.11
+organic-inorganic polymer 4.1.22
+organically modified
+ ceramic 4.1.23
+organically modified
+ silicate 4.1.24
+organomodified ceramic 4.1.25
+Ormocer 4.1.23
+Ormosil 4.1.24
+Ostwald ripening 5.27
+oxide network 4.1.21.3.9
+particulate gel 3.1.12
+particulate sol 2.16.2
+peptization 5.28
+perfect network 4.1.21.3.10
+perfect polymer network 4.1.21.3.11
+permanent crosslink 4.2.4.1
+phantom chain behaviour 4.2.14
+photochemical curing 5.13.3
+photo-curing 5.13.4
+physical network 4.1.21.3.12
+polyelectrolyte gel 3.1.13
+polymer alloy 4.1.26
+polymer blend 4.1.27 
+TERMINOLOGY
+236
+polymer-clay composite 4.1.14.4
+polymer-clay hybrid 4.1.14.5
+polymer derived ceramic 4.1.28
+polymer gel 3.1.14
+polymer network 4.1.21.3
+polymeric sol 2.16.3
+pre-ceramic 4.1.29
+pre-ceramic material 4.1.30
+precipitation 5.29
+PRECURSORS 2
+pre-gel regime 2.13
+pre-gel state 2.14
+PROCESSES 5
+pyrolysis 5.30
+reaction injection moulding 5.31
+reactive polymer processing 5.32
+reinforced reaction
+ injection moulding 5.31.1
+reversible network 4.1.21.3.13
+responsive gel 3.1.15
+rheopexic gel 3.1.16
+rheotropic gel 3.1.17
+ringing gel 3.1.18
+sedimentation 5.33
+semi-interpenetrating
+polymer network 4.1.21.3.14
+sequential interpenetrating
+ polymer network 4.1.21.3.6.1
+sequential semi-
+ interpenetrating polymer
+ network 4.1.21.3.14.1
+shrinkage 5.34
+simultaneous inter-
+ penetrating polymer
+ network 4.1.21.3.6.2
+simultaneous semi-inter-
+ penetrating polymer
+ network 4.1.21.3.14.2
+sintering 5.35
+slip 2.15
+slip casting 5.36
+sol 2.16
+sol fraction 2.17
+sol-gel coating 4.1.31.1
+sol-gel critical concentration 5.37
+sol-gel material 4.1.31
+sol-gel metal oxide 4.1.31.2
+sol-gel process 5.38
+sol-gel silica 4.1.31.3
+sol-gel transition 5.39
+SOLIDS 4
+sonogel 3.1.19
+sonosol 2.16.4
+supercritical drying of a gel 5.40
+surface fractal dimension 4.1.32
+swelling 5.41
+swelling agent 3.9
+syneresis 5.42
+Terms Describing
+ Materials 4.1
+Terms Describing the
+ Molecular Structure
+ and Behaviour of
+ Networks 4.2
+theoretical ceramic yield 4.1.5.1
+thermal curing 5.13.5
+thermolysis 5.43
+thermoplastic elastomer 4.1.8.1
+thermoreversible gel 3.1.20
+thermoreversible junction
+ point 4.2.9.1
+thermoreversible
+ network 4.1.21.3.13.1
+thixotropic gel 3.1.21
+transient crosslink 4.2.4.2
+transient junction point 4.2.9.2
+transient network 4.1.21.3.15
+uniaxial pressing 5.44
+viscous flow sintering 5.45
+viscous sintering 5.46
+vulcanization 5.47
+xerogel 3.1.2 
+
+α-scission 1.8
+β-scission 1.8
+amphoteric polyelectrolyte 3.16
+biodegradable polymer 3.1
+biodegradation 1.13
+chelating polymer 2.1
+chemical amplification 1.1
+chemical modification 1.2
+conducting polymer 3.2
+conducting polymer
+ composite 3.2
+cross-linking 1.3
+curing 1.4
+depolymerization 1.5
+EB curing 1.4
+electro-optical polymer 3.10
+electroluminescent polymer 3.3
+electron-beam resist 3.25
+electron-exchange polymer 2.12
+ferroelectric polymer 3.4
+ferromagnetic polymer 3.5
+functional polymer 3.6
+grafting 1.6
+hydrolytic scission 1.8
+impact-modified polymer 3.7
+interchange reaction 1.7
+ion-beam resist 3.25
+ion-conducting polymer 3.2
+ion-exchange membrane 2.2
+ion-exchange polymer 2.2
+liquid-crystalline polymer 3.8
+living polymer 2.3
+lyotropic liquid-crystalline
+ polymer 3.8
+macromonomer 2.4
+macroporous-bead polymer
+ support 3.23
+macroporous polymer 3.9
+main-chain scission 1.8
+mechanochemical reaction 1.9
+mechanochemical scission 1.8
+mesoporous polymer 3.9
+negative resist 3.25
+negative-tone resist 3.25
+nonlinear-optical polymer 3.10
+optically active polymer 3.11
+oxidation-reduction polymer 2.12
+oxidative scission 1.8
+photo-acid generator 1.1
+photo-base generator 1.1
+photo-curing 1.4
+photochemical reaction 1.10, 1.18
+photochemical scission 1.8
+photochromic polymer 3.14
+photoconductive polymer 3.2
+photoelastic polymer 3.12
+photoluminescent polymer 3.13
+photopolymerization 1.10
+photoreactive polymer 3.14
+photorefractive polymer 3.10
+photoresist 3.25
+photoresponsive polymer 3.14
+photosensitive polymer 3.14
+piezoelectric polymer 3.15
+polyanion 2.2
+polycation 2.2
+polyelectrolyte 3.16
+polymer absorbent 3.22
+polymer acid 3.16
+polymer adsorbent 3.22
+polymer base 3.16
+polymer catalyst 2.5
+polymer compatibilizer 3.17
+polymer complex formation 1.11
+polymer complexation 1.11
+polymer cyclization 1.12 
+TERMINOLOGY
+250
+polymer degradation 1.13
+polymer drug 3.18
+polymer functionalization 1.14
+polymer gel 3.19
+polymer membrane 3.20
+polymer phase-transfer
+ catalyst 2.7
+polymer reactant 2.9
+polymer reaction 1.15
+polymer reagent 2.9
+polymer solvent 3.21
+polymer sorbent 3.22
+polymer support 3.23
+polymer surfactant 3.24
+polymer-metal complex 2.6
+polymer-supported catalyst 2.8
+polymer-supported enzyme 2.8
+polymer-supported reaction 1.16
+polymer-supported reagent 2.9
+positive resist 3.25
+positive-tone resist 3.25
+prepolymer 2.10
+protection of a reactive
+ group 1.17
+proton-conducting polymer 3.2
+radiation reaction 1.18
+reactive blending 1.19
+resist polymer 3.25
+semiconducting polymer 3.2
+shape-memory polymer 3.26
+sol-gel process 1.20
+solid polymer-electrolyte
+ composite 3.2
+superabsorbent polymer 3.27
+surface grafting 1.21
+swollen-gel-bead polymer
+ support 3.23
+telechelic oligomer 2.14
+telechelic polymer 2.14
+thermal curing 1.4
+thermal scission 1.8
+thermoset 2.15
+thermosetting polymer 2.15
+thermotropic liquid-
+ crystalline polymer 3.8
+transesterification 1.7
+trimethylsilylation 1.17
+triphase catalyst 2.7
+vulcanization 1.22
+X-ray resist 3.25 
+
+ablation 1
+ablator 2
+abrasion 3
+abrasive wear 38
+accelerated weathering 39
+aging 4
+ aqueous 4
+ biological1y-induced 4
+ cosmic 4
+ oxidative 4
+ photochemical 4
+ photo-oxidative 4
+ physical 4
+ thermal 4
+ thermo-oxidative 4
+ underground 4
+antagonism 5
+anti-fatigue agent 6
+antioxidant 7
+ chain-breaking 13
+ chain-terminating 13
+antiradiant 8
+aqueous aging 4
+artificial weathering 39
+ashing 9
+auto-pyrolysis 31
+autoxidation 10
+biodegradation 11
+biologically-induced aging 4
+biological stability 34
+carbonization 12
+chain-breaking antioxidant 13
+chain-terminating antioxidant 13
+chemical cracking 14
+chemical stability 34
+chemical stabilization 35
+controlled-degradable polymer 20
+cosmic aging 4
+cracking 14
+ chemical 14
+environmental stress 19
+ oxidative 14
+ozone 14
+radiation 14
+ solvent 14
+UV 14
+crazing 15
+degradation 16
+ bio- 11
+ oxidative 16
+ photo- 16
+photo-oxidative 16 
+DEGRADATION AND AGING
+257
+thermal 16
+thermochemical 16
+thermo-oxidative 16
+denaturation 17
+durability 18
+environmental stress cracking 19
+environmentally degradable
+ polymer 20
+fatigue 21
+fire retardancy 22
+fire retardant 22
+flame retardancy 22
+flame retardant 22
+heat endurance 23
+inhibitor 24
+lifetime 25
+light stabilizer 3
+metal deactivator 26
+oxidative aging 4
+photo- 4
+thermo- 4
+oxidative cracking 14
+oxidative degradation 16
+oxidative stability 34
+photo- 34
+thermo- 34
+ozone cracking 14
+peroxidation 27
+peroxide decomposer 28
+photochemical aging 4
+photodegradation 16
+photo-oxidative aging 4
+photo-oxidative degradation 16
+photo-oxidative stability 34
+photoprotective agent 30
+photosensitization 29
+photosensitize 29
+photostability 34
+photostabilizer 30
+physical aging 4
+physical stabilization 35
+pyrolysis 31
+ auto- 31
+radiation cracking 14
+radiation stability 34
+retarder 32
+sensitizer 33
+ photo- 29
+solvent cracking 14
+stability 34
+ biological 34
+ chemical 34
+ oxidative 34
+ photo- 34
+ photo-oxidative 34
+radiation 34
+thermal 34
+thermo- 34
+thermo-oxidative 34
+stabilization 35
+chemical 35
+physical 35
+stabilizer 36
+ light 30
+ photo- 30
+stress cracking 19
+thermal aging 4
+thermal degradation 16
+thermal stability 34
+thermochemical degradation 16
+thermolysis 31
+thermo-oxidative aging 4
+thermo-oxidative degradation 16
+thermo-oxidative stability 34
+thermostability 34
+underground aging 4
+UV cracking 14
+weak link 37
+wear 38
+ abrasive 38
+weatherability 39
+weathering 39
+ accelerated 39
+ artificial 39 
+ 
+ 
