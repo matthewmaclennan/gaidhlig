@@ -1,34 +1,33 @@
-alternating copolymer 2.11
-alternating copolymerization 3.11
-anionic polymerization 3.19
-atactic macromolecule 1.25
-atactic polymer 2.21
-backbone 1.34
-bipolymer 2.5
-block 1.62
-block copolymer 2.24
-block macromolecule 1.26
-block polymer 2.22
-branch 1.53
-branch point 1.54
-branch unit 1.55
-branched chain 1.33
-branched polymer 2.34
-brush macromolecule 1.52
-cationic polymerization 3.20
-chain 1.30
-chain polymerization 3.6
-chain scission 3.24
-co-oligomer 2.7
-co-oligomerization 3.5
-comb macromolecule 1.52
-comb polymer 2.33
-condensative chain
- polymerization 3.6
-configurational base unit 1.17
-configurational repeating unit 1.18
-configurational sequence 1.64
-configurational unit 1.16
+co-poilimeur mu seach,alternating copolymer 2.11
+co-poilimeurachd mu seach,alternating copolymerization 3.11
+poilimeurachd an-idheonach,anionic polymerization 3.19
+macromoiliciuil ana-tachdach, atactic macromolecule 1.25
+poilimeur ana-tachdach,atactic polymer 2.21
+cnàimh-droma,backbone 1.34
+dà-poilimeur,bipolymer 2.5
+bloc,block 1.62
+co-poilimeur bloc,block copolymer 2.24
+macromoileciuil bhloc,block macromolecule 1.26
+poilimeur bloc,block polymer 2.22
+geug,branch 1.53
+puing ghèige,branch point 1.54
+aonad gèige,branch unit 1.55
+sèine geugaichte,branched chain 1.33
+poilimeur geugaichte,branched polymer 2.34
+macromoileciuil bhruise,brush macromolecule 1.52
+poilimeurachd cat-idheonach,cationic polymerization 3.20
+sèine,chain 1.30
+poilimeurachd shèine,chain polymerization 3.6
+sliseadh sèine,chain scission 3.24
+co-oilgimeur,co-oligomer 2.7
+co-oilgimeurachd,co-oligomerization 3.5
+macromoileciuil chìre,comb macromolecule 1.52
+poilimeur cìre,comb polymer 2.33
+poilimeurachd sèine co-dhlùthachail,condensative chain polymerization 3.6
+aonad bunait rèiteachaidh,configurational base unit 1.17
+aonad ath-thriallach rèiteachaidh,configurational repeating unit 1.18
+sreath rèiteachaidh,configurational sequence 1.64
+aonad rèiteachaidh,configurational unit 1.16
 constitutional repeating unit 1.15
 constitutional sequence 1.63
 constitutional unit 1.14
