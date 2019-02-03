@@ -12,7 +12,7 @@ poilimeur bloc,block polymer 2.22
 geug,branch 1.53
 puing ghèige,branch point 1.54
 aonad gèige,branch unit 1.55
-sèine geugaichte,branched chain 1.33
+sèine gheugaichte,branched chain 1.33
 poilimeur geugaichte,branched polymer 2.34
 macromoileciuil bhruise,brush macromolecule 1.52
 poilimeurachd cat-idheonach,cationic polymerization 3.20
@@ -28,44 +28,44 @@ aonad bunait rèiteachaidh,configurational base unit 1.17
 aonad ath-thriallach rèiteachaidh,configurational repeating unit 1.18
 sreath rèiteachaidh,configurational sequence 1.64
 aonad rèiteachaidh,configurational unit 1.16
-constitutional repeating unit 1.15
-constitutional sequence 1.63
-constitutional unit 1.14
-copolymer 2.5
-copolymerization 3.4
-covalent network 1.58
-crosslink 1.59
-cyclopolymerization 3.23
-decad 1.63, 1.64
-degree of polymerization 1.13
-depolymerization 3.25
-diad 1.63, 1.64
-double-strand chain 1.40
-double-strand copolymer 2.31
-double-strand macromolecule 1.41
-double-strand polymer 2.30
-end-group 1.35
-f-functional branch point 1.54
-f-functional branch unit 1.55
-graft copolymer 2.25
-graft macromolecule 1.28
-graft polymer 2.23
-heptad 1.63, 1.64
-hexad 1.63, 1.64
-homopolymer 2.4
-homopolymerization 3.3
-interpenetrating polymer
-network 2.43
-ionic copolymerization 3.18
-ionic polymerization 3.17
-ionomer 2.39
-ionomer molecule 1.66
-irregular macromolecule 1.5
-irregular polymer 2.16
-isotactic macromolecule 1.23
-isotactic polymer 2.18
-junction point 1.54
-junction unit 1.27
+aonad ath-thriallach co-dhèanamhach,constitutional repeating unit 1.15
+sreath co-dhèanamhail,constitutional sequence 1.63
+aonad co-dhèanamhail,constitutional unit 1.14
+co-poilimeur,copolymer 2.5
+co-poilimeurachd,copolymerization 3.4
+lìonra co-fhiùsach,covalent network 1.58
+tar-ceangailt, crosslink 1.59
+cioclapoilimeurachd,cyclopolymerization 3.23
+deugad,decad 1.63, 1.64
+inbhe poilimeurachda,degree of polymerization 1.13
+dì-phoilimeurachd,depolymerization 3.25
+dàthad,diad 1.63, 1.64
+sèine dhuail-dhùbailte,double-strand chain 1.40
+co-poilimeur duail-dhùbailte,double-strand copolymer 2.31
+macramoileciuil dhuail-dhùbailte,double-strand macromolecule 1.41
+poilimeur duail-dhùbailte,double-strand polymer 2.30
+earrann deiridh,end-group 1.35
+puing ghèige f-fhoincseanach,f-functional branch point 1.54
+aonad gèige f-fhoincseanach,f-functional branch unit 1.55
+co-poilimeur nòdachaidh, graft copolymer 2.25
+macromoileciuil nòdachaidh,graft macromolecule 1.28
+poilimeur nòdachaidh,graft polymer 2.23
+heaptad,heptad 1.63, 1.64
+heacsad,hexad 1.63, 1.64
+homopoilimeur,homopolymer 2.4
+homopoilimeurachd,homopolymerization 3.3
+poilimeur eadar-dhrùidhte,interpenetrating polymer
+lìonra,network 2.43
+co-poilimeurachd idheonach,ionic copolymerization 3.18
+poilimeurachd idheonach,ionic polymerization 3.17
+idheonmeur,ionomer 2.39
+moiliciuil idheonmeòir,ionomer molecule 1.66
+macromoiliciuil neo-riaghailteach,irregular macromolecule 1.5
+poilimeur neo-riaghailteach,irregular polymer 2.16
+macromoileciuil iseatachdach,isotactic macromolecule 1.23
+poilimeur iseatachdach,isotactic polymer 2.18
+puing ghobhail,junction point 1.54
+aonad gobhail,junction unit 1.27
 ladder chain 1.44
 ladder macromolecule 1.45
 ladder polymer 2.30
